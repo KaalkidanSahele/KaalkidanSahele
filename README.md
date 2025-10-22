@@ -1,17 +1,10 @@
-# 👋🏽 Hey peeps! *
+# 👋🏽 Hi folks! *
 
-I'm Kaalkidan Sahele — or just Kaal (like "Cal", short for Callum... but cooler 😎)
+I'm Kaalkidan Sahele — or just Kaal
 
-🎓 I'm currently a DPhil student at the University of Oxford, diving deep into the world of:
+🎓 I'm currently a DPhil student at the University of Oxford, diving deep into the world of GNNs, ranginging from methods of extension into the spatial-temporal domain to uncertainty-awareness/ how trustworthy they are (given the rise of the graph structured data being used for training tasks, this is an increadingly important question). 
 
-- Data science & visualisation
-- LLMs, NLP
-- Graphs (the node-and-edge kind, not the "your stats are down 20%" kind)
-- GNNs & computational complexity — because who doesn’t love a good NP-complete problem?
-
-My GitHub profile consists of quite a few sporadic moments of high intensity, which usually means I'm at a hackathon, making a workshop, or working on a self-project on a recent obsession.
-
-I love innovative ideas that may or may not break things, playing guitar (badly but enthusiastically), bad puns (and good ones too, but especially the bad ones), and, of course - tech communities & organising spaces that welcome *everyone* :)
+I'm also involved in running and partaking in hackathons, as organisers and as mentors.   
 
 ## ✨ Fun fact
 
