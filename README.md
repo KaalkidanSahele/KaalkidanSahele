@@ -1,4 +1,4 @@
-# 👋🏽 Hi folks! *
+# 👋🏽 Hi folks!
 
 I'm Kaalkidan Sahele — or just Kaal
 
