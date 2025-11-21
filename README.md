@@ -8,8 +8,8 @@ I'm also involved in running and partaking in hackathons, as organisers and as m
 
 ## ✨ Fun fact
 
-- 🧠 Former President of Durham University Computing Society (I actually just graduated from Durham in the summer of 2025!)
-- 🚀 Co-founder and first lead organiser of Durham Women in Tech's diversity-focused hackathon  
+- Former President of Durham University Computing Society (I actually just graduated from Durham in the summer of 2025!)
+- Co-founder and first lead organiser of Durham Women in Tech's diversity-focused hackathon  
 *(Yes, I really love ambitious ideas — and making them happen)*
 
 ## 📫 Get in touch!
