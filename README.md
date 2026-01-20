@@ -2,9 +2,9 @@
 
 I'm Kaalkidan Sahele — or just Kaal
 
-I'm currently a DPhil student at the University of Oxford, diving deep into the world of GNNs, ranginging from methods of extension into the spatial-temporal domain to uncertainty-awareness/ how trustworthy they are (given the rise of the graph structured data being used for training tasks, this is an increadingly important question). 
+I'm currently a DPhil student at the University of Oxford, diving deep into the world of GNNs, looking specifically at kernel theoretic understanings of GNNs and knowledge graph integration to improve interpretability.
 
-I'm also involved in running and partaking in hackathons, as organisers and as mentors.   
+I'm also involved in running and partaking in hackathons, as organisers and as mentors!    
 
 ## Fun fact
 
