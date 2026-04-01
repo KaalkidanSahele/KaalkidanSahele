@@ -18,4 +18,4 @@ I love hearing about new projects, weird ideas, and ambitious collaborations.
 Whether you're building something cool, want a co-organiser, or just want to nerd out over data/ graphs — feel free to connect! :D
 
 
-![alt text](https://ibb.co/Dg6PSbD6)
+![](https://drive.google.com/file/d/1iFkr8SPyn-etd8vKtGsTXdIj1xdb50vc/view?usp=sharing)
