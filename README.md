@@ -20,4 +20,4 @@ Whether you're building something cool, want a co-organiser, or just want to ner
 
 
 (testing image link usage)
-![]] (https://ibb.co/Dg6PSbD6)
+![] (https://ibb.co/Dg6PSbD6)
